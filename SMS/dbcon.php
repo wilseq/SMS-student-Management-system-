@@ -6,7 +6,7 @@
  }
  else
  {
- 	echo "Connection Sucessfull";
+ //	echo "Connection Sucessfull";
  }
 
 ?>
